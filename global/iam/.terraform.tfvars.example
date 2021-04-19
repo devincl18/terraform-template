@@ -1,0 +1,15 @@
+region = __YOUR_REGION__
+access_key = __YOUR_ACCESS_KEY__
+secret_key = __YOUR_SECRET_KEY__
+
+users = [
+  __YOUR_USER__
+]
+
+groups = [
+  __YOUR_GROUP__
+]
+
+policies = [
+  __YOUR_POLICIES__
+]
